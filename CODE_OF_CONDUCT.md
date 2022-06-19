@@ -1,5 +1,5 @@
 # BeyondCombustion Citizen Code of Conduct
-#### v1.0 - 6/19/22
+#### v1.0.1 - 6/19/22
 
 ## 1. Purpose
 
@@ -74,7 +74,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond..
+After filing a report, a representative will contact you personally within 24 hours, review the incident, follow up with any additional questions, and make a decision as to how to respond.
 
 If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, a different member of the response team will handle it. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
