@@ -11,11 +11,11 @@ We invite all those who participate in BeyondCombustion to help us create safe a
 
 ## 2. Open Culture Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open culture citizenship and promote harm reduction by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open culture citizenship and promote harm reduction through herbal vaporizers by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know so we can recognize the positive contributions.
 
 ## 3. Expected Behavior
 
@@ -54,18 +54,18 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the BeyondCoombustion admins may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning in extreme cases (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior, the BeyondCombustion admins may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning in extreme cases (and without refund in the case of a paid event).
 
 The BeyondCombustion admin team has broad latitude to remove an offending user from the BeyondCombustion GitHub project, the /r/Vaporents subreddit, or simply issue a warning depending on the severity of the offense. 
 
-No more than 1 warning will be given to a user within a 45 day period, additional offences by the user within the 45 day period will result in a community ban from BeyondCombustion; and potentally from the /r/Vaporents subreddit if the user is also active on Reddit depending on the offence
+No more than 1 warning will be given to a user within a 45 day period, additional offenses by the user within the 45 day period will result in a community ban from BeyondCombustion; and potentially from the /r/Vaporents subreddit if the user is also active on Reddit depending on the offense.
 
 ## 7. Reporting Guidelines
 
 Our community prioritizes marginalized people’s safety over privileged people’s comfort. We work to protect the psychological and physical safety of all members. If you experience or witness unacceptable behavior constituting a code of conduct violation or have any other code of conduct concerns, please report it by contacting us via admin@beyondcombustion.net. All reports will be handled with discretion. In your report please include:
 
 - Your contact information (only if you feel comfortable providing an alternative means to contact you outside of GitHub).
-- Names, at minimum the individual's GitHub username. Depending on the issue being reported, you may feel it appropriate to additionaly include the Reddit username, FuckCombustion.com username, Instagram handle, Youtube username, real name, nicknames, or pseudonyms of any individuals involved. If there are additional witnesses, please include them as well.
+- Names, at minimum the individual's GitHub username. Depending on the issue being reported, you may feel it appropriate to additionally include the Reddit username, FuckCombustion.com username, Instagram handle, Youtube username, real name, nicknames, or pseudonyms of any individuals involved. If there are additional witnesses, please include them as well.
 - Your account of what occurred and if you believe the incident is ongoing. If there is a publicly available record (e.g. Reddit, FuckCombustion.com, Discord, Instagram, Youtube, Slack, internet forums, a mailing list archive or a public IRC logger, etc), please include a link, reference, or screenshot.
 - Any potential contact information for the individual in question outside of GitHub, such as an email address; only if you already happen to have it on hand.
 - Any additional information that may be helpful.
